@@ -5,6 +5,6 @@ package com.xc.rocketmq;
  */
 public class git {
     public static void main(String[] args) {
-        System.out.println("hello git");
+        System.out.println("test git");
     }
 }
